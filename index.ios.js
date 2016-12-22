@@ -7,13 +7,12 @@ import { AppRegistry, View } from 'react-native';
 import Header from './src/components/header';
 import AlbumList from './src/components/AlbumList';
 
-// create a Component
+// create a Component of stuff
 const App = () => (
   <View>
-    <Header headerText={'Albumss'} />
+    <Header headerText={'Albums'} />
     <AlbumList />
   </View>
-
 );
 
 // render it to the device
