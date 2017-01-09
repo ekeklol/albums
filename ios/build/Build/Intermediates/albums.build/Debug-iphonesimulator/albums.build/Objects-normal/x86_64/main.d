@@ -1,2 +1,2 @@
-dependencies: /Users/erikelek/Erik/albums/ios/albums/main.m \
-  /Users/erikelek/Erik/albums/ios/albums/AppDelegate.h
+dependencies: /Users/erikelek/Erik/albums-course/ios/albums/main.m \
+  /Users/erikelek/Erik/albums-course/ios/albums/AppDelegate.h

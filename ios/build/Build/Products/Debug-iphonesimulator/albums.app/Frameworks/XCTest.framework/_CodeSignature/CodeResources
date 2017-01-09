@@ -134,15 +134,15 @@
 		</data>
 		<key>XPCServices/XCUIRecorderService.xpc/XCUIRecorderService</key>
 		<data>
-		Vt88WAlPf+8RECv5LdNqJk5Vc+4=
+		FTrFhh0TgN5L8ZN5V3a8cErMdnw=
 		</data>
 		<key>XPCServices/XCUIRecorderService.xpc/_CodeSignature/CodeResources</key>
 		<data>
-		NXvlk2GusNV3KfxdNqqvTQCctx0=
+		NULa62Q9Ekagp5J6vYhXotN9g8s=
 		</data>
 		<key>XPCServices/XCUIRecorderService.xpc/version.plist</key>
 		<data>
-		xrAWmlwsl7/ygiScJZnSfbwgffI=
+		R/va6aDhjzoXMhgC4CJPpstvJEw=
 		</data>
 		<key>XPCServices/xctestSymbolicator.xpc/Info.plist</key>
 		<data>
@@ -150,15 +150,15 @@
 		</data>
 		<key>XPCServices/xctestSymbolicator.xpc/_CodeSignature/CodeResources</key>
 		<data>
-		ihFdkvXv9V89Ad9iVO8ZcjkANi4=
+		BktQ1TcUZ2SPLbuBj29VfoZRncc=
 		</data>
 		<key>XPCServices/xctestSymbolicator.xpc/version.plist</key>
 		<data>
-		xrAWmlwsl7/ygiScJZnSfbwgffI=
+		R/va6aDhjzoXMhgC4CJPpstvJEw=
 		</data>
 		<key>XPCServices/xctestSymbolicator.xpc/xctestSymbolicator</key>
 		<data>
-		xdIaL9B4tgZhOSKveOJN39oxA0A=
+		UtWzzDx9xpDYmZ+MGvYZEdPL8Nw=
 		</data>
 		<key>en.lproj/InfoPlist.strings</key>
 		<dict>
@@ -171,7 +171,7 @@
 		</dict>
 		<key>version.plist</key>
 		<data>
-		vHbX6lUB887dP9NbQ5tEl5TRRKU=
+		yjBcTcl/az9WjdyHWVRj7ess7M4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -307,15 +307,15 @@
 		</data>
 		<key>XPCServices/XCUIRecorderService.xpc/XCUIRecorderService</key>
 		<data>
-		Vt88WAlPf+8RECv5LdNqJk5Vc+4=
+		FTrFhh0TgN5L8ZN5V3a8cErMdnw=
 		</data>
 		<key>XPCServices/XCUIRecorderService.xpc/_CodeSignature/CodeResources</key>
 		<data>
-		NXvlk2GusNV3KfxdNqqvTQCctx0=
+		NULa62Q9Ekagp5J6vYhXotN9g8s=
 		</data>
 		<key>XPCServices/XCUIRecorderService.xpc/version.plist</key>
 		<data>
-		xrAWmlwsl7/ygiScJZnSfbwgffI=
+		R/va6aDhjzoXMhgC4CJPpstvJEw=
 		</data>
 		<key>XPCServices/xctestSymbolicator.xpc/Info.plist</key>
 		<data>
@@ -323,15 +323,15 @@
 		</data>
 		<key>XPCServices/xctestSymbolicator.xpc/_CodeSignature/CodeResources</key>
 		<data>
-		ihFdkvXv9V89Ad9iVO8ZcjkANi4=
+		BktQ1TcUZ2SPLbuBj29VfoZRncc=
 		</data>
 		<key>XPCServices/xctestSymbolicator.xpc/version.plist</key>
 		<data>
-		xrAWmlwsl7/ygiScJZnSfbwgffI=
+		R/va6aDhjzoXMhgC4CJPpstvJEw=
 		</data>
 		<key>XPCServices/xctestSymbolicator.xpc/xctestSymbolicator</key>
 		<data>
-		xdIaL9B4tgZhOSKveOJN39oxA0A=
+		UtWzzDx9xpDYmZ+MGvYZEdPL8Nw=
 		</data>
 		<key>en.lproj/InfoPlist.strings</key>
 		<dict>
@@ -344,7 +344,7 @@
 		</dict>
 		<key>version.plist</key>
 		<data>
-		vHbX6lUB887dP9NbQ5tEl5TRRKU=
+		yjBcTcl/az9WjdyHWVRj7ess7M4=
 		</data>
 	</dict>
 	<key>rules</key>

@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/erikelek/Erik/albums/node_modules/react-native/Libraries/Text/RCTShadowRawText.m \
-  /Users/erikelek/Erik/albums/node_modules/react-native/Libraries/Text/RCTShadowRawText.h \
+  /Users/erikelek/Erik/albums-course/node_modules/react-native/Libraries/Text/RCTShadowRawText.m \
+  /Users/erikelek/Erik/albums-course/node_modules/react-native/Libraries/Text/RCTShadowRawText.h \
   ../../React/Views/RCTShadowView.h ../../React/CSSLayout/CSSLayout.h \
   ../../React/CSSLayout/CSSEnums.h ../../React/CSSLayout/CSSMacros.h \
   ../../React/Views/RCTComponent.h ../../React/Base/RCTRootView.h \

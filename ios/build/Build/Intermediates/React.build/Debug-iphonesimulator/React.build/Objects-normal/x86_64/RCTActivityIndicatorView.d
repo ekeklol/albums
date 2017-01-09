@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/erikelek/Erik/albums/node_modules/react-native/React/Views/RCTActivityIndicatorView.m \
-  /Users/erikelek/Erik/albums/node_modules/react-native/React/Views/RCTActivityIndicatorView.h
+  /Users/erikelek/Erik/albums-course/node_modules/react-native/React/Views/RCTActivityIndicatorView.m \
+  /Users/erikelek/Erik/albums-course/node_modules/react-native/React/Views/RCTActivityIndicatorView.h

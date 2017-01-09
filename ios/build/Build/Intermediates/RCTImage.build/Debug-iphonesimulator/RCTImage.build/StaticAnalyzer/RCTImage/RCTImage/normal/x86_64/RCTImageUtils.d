@@ -1,8 +1,8 @@
 dependencies: \
-  /Users/erikelek/Erik/albums/node_modules/react-native/Libraries/Image/RCTImageUtils.m \
-  /Users/erikelek/Erik/albums/node_modules/react-native/Libraries/Image/RCTImageUtils.h \
+  /Users/erikelek/Erik/albums-course/node_modules/react-native/Libraries/Image/RCTImageUtils.m \
+  /Users/erikelek/Erik/albums-course/node_modules/react-native/Libraries/Image/RCTImageUtils.h \
   ../../React/Base/RCTDefines.h \
-  /Users/erikelek/Erik/albums/node_modules/react-native/Libraries/Image/RCTResizeMode.h \
+  /Users/erikelek/Erik/albums-course/node_modules/react-native/Libraries/Image/RCTResizeMode.h \
   ../../React/Base/RCTConvert.h ../../React/CSSLayout/CSSLayout.h \
   ../../React/CSSLayout/CSSEnums.h ../../React/CSSLayout/CSSMacros.h \
   ../../React/Views/RCTAnimationType.h \

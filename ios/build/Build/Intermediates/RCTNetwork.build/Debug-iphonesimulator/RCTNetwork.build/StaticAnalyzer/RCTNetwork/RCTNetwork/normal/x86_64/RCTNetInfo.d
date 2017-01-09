@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/erikelek/Erik/albums/node_modules/react-native/Libraries/Network/RCTNetInfo.m \
-  /Users/erikelek/Erik/albums/node_modules/react-native/Libraries/Network/RCTNetInfo.h \
+  /Users/erikelek/Erik/albums-course/node_modules/react-native/Libraries/Network/RCTNetInfo.m \
+  /Users/erikelek/Erik/albums-course/node_modules/react-native/Libraries/Network/RCTNetInfo.h \
   ../../React/Modules/RCTEventEmitter.h ../../React/Base/RCTBridge.h \
   ../../React/Base/RCTBridgeDelegate.h \
   ../../React/Base/RCTJavaScriptLoader.h ../../React/Base/RCTDefines.h \

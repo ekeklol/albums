@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/erikelek/Erik/albums/node_modules/react-native/Libraries/Text/RCTText.m \
-  /Users/erikelek/Erik/albums/node_modules/react-native/Libraries/Text/RCTText.h \
-  /Users/erikelek/Erik/albums/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/erikelek/Erik/albums-course/node_modules/react-native/Libraries/Text/RCTText.m \
+  /Users/erikelek/Erik/albums-course/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/erikelek/Erik/albums-course/node_modules/react-native/Libraries/Text/RCTShadowText.h \
   ../../React/Views/RCTShadowView.h ../../React/CSSLayout/CSSLayout.h \
   ../../React/CSSLayout/CSSEnums.h ../../React/CSSLayout/CSSMacros.h \
   ../../React/Views/RCTComponent.h ../../React/Base/RCTRootView.h \

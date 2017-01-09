@@ -1,5 +1,5 @@
-dependencies: /Users/erikelek/Erik/albums/ios/albums/AppDelegate.m \
-  /Users/erikelek/Erik/albums/ios/albums/AppDelegate.h \
+dependencies: /Users/erikelek/Erik/albums-course/ios/albums/AppDelegate.m \
+  /Users/erikelek/Erik/albums-course/ios/albums/AppDelegate.h \
   ../node_modules/react-native/React/Base/RCTBundleURLProvider.h \
   ../node_modules/react-native/React/Base/RCTRootView.h \
   ../node_modules/react-native/React/Base/RCTBridge.h \
