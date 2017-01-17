@@ -21,7 +21,8 @@ const AlbumDetail = ({ album }) => {
         <View style={thumbnailContainerStyle}>
           <Image
            style={thumbnailStyle}
-           source={{ uri: thumbnail_image }}/>
+           source={{ uri: thumbnail_image }}
+          />
         </View>
         <View style={headerContentStyle}>
           <Text style={headerTextStyle}>{title}</Text>
@@ -30,7 +31,7 @@ const AlbumDetail = ({ album }) => {
       </CardSection>
 
       <CardSection>
-        <Image style={imageStyle} source={{ uri:image }} />
+        <Image style={imageStyle} source={{ uri: image }} />
       </CardSection>
 
       <CardSection>
@@ -56,7 +57,7 @@ const styles = {
     justifyContent: 'center',
     alignItems: 'center',
     marginLeft: 10,
-    margintRight: 10
+    marginRight: 10
   },
   imageStyle: {
     height: 300,
