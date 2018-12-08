@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		lWrDLwRRqFFoqgiyGDwwWEULBq4=
+		uYCbsgkblD6WFQb5AfrFLcJgnG0=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
@@ -203,7 +203,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		rPFiP7ZOSb1QCt87sRDwWr9KHvs=
+		+tAq6HLulFrpPoN35/zNDmMwpq4=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -211,15 +211,15 @@
 		</data>
 		<key>PlugIns/albumsTests.xctest/Info.plist</key>
 		<data>
-		80rk1kfIxKR8dqXDCtHhxf2hCAg=
+		o1UKYxzKySdFRuKAmbNzA2JEZOk=
 		</data>
 		<key>PlugIns/albumsTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		MgroOysY35uII/HSCH1/6nwBSDs=
+		mUmJmNvgosY6z2QDE0cQjY5eL9s=
 		</data>
 		<key>PlugIns/albumsTests.xctest/albumsTests</key>
 		<data>
-		eF5+t3oCWmyagTU2+hYfV5pasFw=
+		/zuOphCZUvgDmKEbhNl1vJeoxWA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -228,11 +228,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lWrDLwRRqFFoqgiyGDwwWEULBq4=
+			uYCbsgkblD6WFQb5AfrFLcJgnG0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Cu3vJCrWXH8pyCvaF5F+qM4oyBJrws2bWwlaujLy6Kc=
+			2TMNZbQVxj6zmrB4TAYCmYAmi48aI42ZalIhk26QiwQ=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
@@ -763,33 +763,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			80rk1kfIxKR8dqXDCtHhxf2hCAg=
+			o1UKYxzKySdFRuKAmbNzA2JEZOk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ad5ORDi2kWT9A4X2NNxCX/cgQUjop2g0VhNcPmFYfJQ=
+			Cu3gwcmS8Eye/crikgTbXF+Oeyj2EONsuULlk3p0KuI=
 			</data>
 		</dict>
 		<key>PlugIns/albumsTests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MgroOysY35uII/HSCH1/6nwBSDs=
+			mUmJmNvgosY6z2QDE0cQjY5eL9s=
 			</data>
 			<key>hash2</key>
 			<data>
-			VK9JUvumVoxs0qHZOR6bCusMRy7Ktvp25ywL5pZN+vs=
+			MshoPTLI2+WZHU0df3KbZbyymawVYWp61NDqN0p/0ME=
 			</data>
 		</dict>
 		<key>PlugIns/albumsTests.xctest/albumsTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eF5+t3oCWmyagTU2+hYfV5pasFw=
+			/zuOphCZUvgDmKEbhNl1vJeoxWA=
 			</data>
 			<key>hash2</key>
 			<data>
-			uhRiXHjjIMlRKFYRMLqq8My45jKoojxKqTjjkVzbaZA=
+			Jyr7ci2hder99rq/+pwlYScxNZLYCLIj66D2GXkCESM=
 			</data>
 		</dict>
 	</dict>
